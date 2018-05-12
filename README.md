@@ -1,6 +1,6 @@
 # 前言
 
-在使用今日头条、网易云音乐等应用的时候，发现它们都会精准的推荐相关信息给用户，于是对背后的推荐算法产生了兴趣。正好今后的工作可能需要“为商品推荐达人们汇总出一些当季的、相关性的商品”，也许会和推荐算法有一定联系。本DEMO是对**[基于物品的协同过滤算法](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)**（Item-based collaborative filtering recommendation algorithms, itemCF）的学习，算是入职前的热身吧。
+在使用今日头条、网易云音乐等应用的时候，发现它们都会精准的推荐相关信息给用户，于是对背后的推荐算法产生了兴趣。正好今后的工作可能需要“为商品推荐达人们汇总出一些当季的、相关性的商品”，也许会和推荐算法有一定联系。本DEMO是对[基于物品的协同过滤算法](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)（Item-based collaborative filtering recommendation algorithms, itemCF）的学习，算是入职前的热身吧。
 
 
 
