@@ -27,7 +27,7 @@ public class MapReduce2 {
     private static final String CACHE_PATH = "/ItemCF/step1_output/part-r-00000";
     private static final String HDFS_ADDR = "hdfs://localhost:9000";
 
-    private int run() {
+    public int run() {
         try {
             Configuration configuration = new Configuration();
             configuration.set("fs.defaultFS", HDFS_ADDR);

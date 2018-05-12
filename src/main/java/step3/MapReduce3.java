@@ -18,7 +18,7 @@ public class MapReduce3 {
     private static final String OUT_PATH = "/ItemCF/step3_output";
     private static final String HDFS_ADDR = "hdfs://localhost:9000";
 
-    private int run() {
+    public int run() {
         try {
             Configuration configuration = new Configuration();
             configuration.set("fs.defaultFS", HDFS_ADDR);
